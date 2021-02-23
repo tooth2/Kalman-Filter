@@ -1,5 +1,5 @@
 # Kalman-Filter
-1D and 2D representation of vehicle tracking using Kalman Filter
+A Tutorial 1D and 2D representation of vehicle tracking using Kalman Filter
 
 ## 1D-Kalman-Filter 
 Kalman Filter, which is an algorithm that uses noisy sensor measurements (and Bayes' Rule) to produce reliable estimates of unknown quantities (e.g. like where a vehicle is likely to be in 3 seconds) , represents a mathematical way to infer velocity from only a set of measured locations. Using Kalman Filter, we can estimates where future locations might be and the velocity of an object from intial parameters like positions and uncertainty.
