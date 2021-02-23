@@ -27,10 +27,10 @@ Last step is to implement a 1D Kalman Filter by putting all these steps together
 * moving and performing a motion update
 
 ### Related Localization Projects 
- [x] [Histogram Filter](https://github.com/tooth2/HistogramFilter)
- [x] [Kalman Filter](https://github.com/tooth2/Kalman-Filter)
- [x] [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)
- [x] [2D Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)
- [x] [3D Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)
- [x] [SLAM](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)
+- [x] [Histogram Filter](https://github.com/tooth2/HistogramFilter)
+- [x] [Kalman Filter](https://github.com/tooth2/Kalman-Filter)
+- [x] [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)
+- [x] [2D Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)
+- [x] [3D Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)
+- [x] [SLAM](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)
 
